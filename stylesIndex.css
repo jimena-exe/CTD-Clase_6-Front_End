@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.banner{
+    background-image: url("img/p26.jpg");
+    height: 250px;
+    padding-top: 40px;
+}
+.fotoP{
+    background-image: url("img/IMG_20220329_135913\ \(2\).jpg");
+    background-size: cover;
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+}
+.menu{
+    padding-top: 10px;
+    background-color: #c95234 ;
+    height: 60px;
+    color: antiquewhite;
+    text-align: center;
+}
+.bienvenida{
+    margin: 10px;
+}
+.datosPersonales,.formacionAcademica,.experienciaLaboral{
+    margin: 5px;
+    padding-top: 20px;
+}
+h2{
+    background-color: #c95234 ;
+    color: antiquewhite;
+}
+span, p{
+    padding:10px;
+    
+}
+.redes{
+    background-color: #c95234;
+    height: 30px;
+    text-align: center;
+}
